@@ -37,5 +37,4 @@ Welcome to the **Item Sales (POS) Management System**, an open-source project de
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/sakir-console/pos-management-laravel-sakir.git
-   cd pos-management-system/flutter-app
+   git clone https://github.com/sakir-console/pos-management-laravel-sakir.git 
